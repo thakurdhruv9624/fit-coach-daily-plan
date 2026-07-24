@@ -1,73 +1,18 @@
-# Welcome to your Lovable project
+# 🗓️ Fit Coach Daily Plan
 
-## Project info
+A clean and functional web dashboard for organizing daily workout plans and fitness schedules. This project focuses on UI/UX workflows and structured day-to-day data visualization.
 
-**URL**: https://lovable.dev/projects/943117c0-9c3a-41ac-9ee6-acb13baddeea
+## 🚀 Live Demo
+- **Live Application:** https://preview--fit-coach-daily-plan.lovable.app/
 
-## How can I edit this code?
+## 🎯 Purpose & Learning Outcomes
+Built as a rapid prototype to learn data presentation and interactive user flows. It demonstrates how modern AI-assisted development tools can bootstrap a functional UI in minutes.
 
-There are several ways of editing your application.
+## 🛠️ Tech Stack & Architecture
+A modern component-driven architecture built with performance and clean code principles in mind:
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/943117c0-9c3a-41ac-9ee6-acb13baddeea) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/943117c0-9c3a-41ac-9ee6-acb13baddeea) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+- **⚡ Vite:** Next-generation frontend tooling for an ultra-fast development server and optimized production builds.
+- **🛡️ TypeScript:** Strongly typed programming language that builds on JavaScript, ensuring type safety and reducing runtime errors.
+- **⚛️ React:** Declarative, component-based UI library used to manage state effectively and build reusable interface blocks.
+- **🎨 shadcn/ui:** Beautifully designed, accessible components built on top of Radix UI primitives, giving complete design control.
+- **💨 Tailwind CSS:** A utility-first CSS framework for rapid UI development and precise responsive styling without leaving the HTML.
